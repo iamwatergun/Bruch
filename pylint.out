@@ -1,0 +1,554 @@
+************* Module bruch
+__init__.py:2: [C0301(line-too-long), ] Line too long (110/100)
+__init__.py:3: [C0304(missing-final-newline), ] Final newline missing
+__init__.py:1: [C0111(missing-docstring), ] Missing module docstring
+__init__.py:2: [W0401(wildcard-import), ] Wildcard import bruch.Bruch
+__init__.py:2: [C0413(wrong-import-position), ] Import "from bruch.Bruch import *" should be placed at the top of the module
+************* Module bruch.Bruch
+Bruch.py:28: [C0301(line-too-long), ] Line too long (103/100)
+Bruch.py:31: [C0301(line-too-long), ] Line too long (111/100)
+Bruch.py:181: [C0301(line-too-long), ] Line too long (112/100)
+Bruch.py:322: [C0304(missing-final-newline), ] Final newline missing
+Bruch.py:1: [C0111(missing-docstring), ] Missing module docstring
+Bruch.py:1: [C0103(invalid-name), ggt] Invalid argument name "a"
+Bruch.py:1: [C0103(invalid-name), ggt] Invalid argument name "b"
+Bruch.py:8: [R1705(no-else-return), ggt] Unnecessary "else" after "return"
+Bruch.py:14: [C0103(invalid-name), kgv] Invalid argument name "a"
+Bruch.py:14: [C0103(invalid-name), kgv] Invalid argument name "b"
+Bruch.py:21: [C0103(invalid-name), kgv] Invalid variable name "g"
+Bruch.py:58: [C0103(invalid-name), Bruch.__init__] Invalid variable name "t"
+Bruch.py:67: [R0123(literal-comparison), Bruch.__init__] Comparison to literal
+Bruch.py:150: [W0613(unused-argument), Bruch.__pow__] Unused argument 'modulo'
+Bruch.py:199: [C0103(invalid-name), Bruch.__add] Invalid argument name "b0"
+Bruch.py:199: [C0103(invalid-name), Bruch.__add] Invalid argument name "b1"
+Bruch.py:208: [C0103(invalid-name), Bruch.__add] Invalid variable name "mi"
+Bruch.py:209: [C0103(invalid-name), Bruch.__add] Invalid variable name "mx"
+Bruch.py:210: [C0103(invalid-name), Bruch.__add] Invalid variable name "kv"
+Bruch.py:211: [C0103(invalid-name), Bruch.__add] Invalid variable name "a"
+Bruch.py:212: [C0103(invalid-name), Bruch.__add] Invalid variable name "b"
+Bruch.py:216: [C0103(invalid-name), Bruch.__makeBruch] Invalid method name "__makeBruch"
+Bruch.py:25: [R0903(too-few-public-methods), Bruch] Too few public methods (0/2)
+************* Module bruch.test.testfall
+test\testfall.py:24: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
+test\testfall.py:28: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
+test\testfall.py:32: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
+test\testfall.py:37: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
+test\testfall.py:50: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
+test\testfall.py:54: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
+test\testfall.py:68: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
+test\testfall.py:72: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
+test\testfall.py:76: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
+test\testfall.py:80: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
+test\testfall.py:84: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
+test\testfall.py:100: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
+test\testfall.py:103: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
+test\testfall.py:106: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
+test\testfall.py:109: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
+test\testfall.py:112: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
+test\testfall.py:115: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
+test\testfall.py:132: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
+test\testfall.py:137: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
+test\testfall.py:154: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
+test\testfall.py:158: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
+test\testfall.py:162: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
+test\testfall.py:166: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
+test\testfall.py:170: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
+test\testfall.py:174: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
+test\testfall.py:197: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
+test\testfall.py:201: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
+test\testfall.py:205: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
+test\testfall.py:219: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
+test\testfall.py:223: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
+test\testfall.py:227: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
+test\testfall.py:244: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
+test\testfall.py:248: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
+test\testfall.py:252: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
+test\testfall.py:259: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
+test\testfall.py:263: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
+test\testfall.py:267: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
+test\testfall.py:287: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
+test\testfall.py:291: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
+test\testfall.py:295: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
+test\testfall.py:302: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
+test\testfall.py:319: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
+test\testfall.py:323: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
+test\testfall.py:343: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
+test\testfall.py:7: [W0401(wildcard-import), ] Wildcard import bruch.Bruch
+test\testfall.py:14: [C0103(invalid-name), TestAllgemein.setUp] Invalid attribute name "b2"
+test\testfall.py:15: [C0103(invalid-name), TestAllgemein.setUp] Invalid attribute name "b3"
+test\testfall.py:13: [C0103(invalid-name), TestAllgemein.setUp] Invalid attribute name "b"
+test\testfall.py:10: [C0111(missing-docstring), TestAllgemein] Missing class docstring
+test\testfall.py:16: [W0107(unnecessary-pass), TestAllgemein.setUp] Unnecessary pass statement
+test\testfall.py:20: [W0107(unnecessary-pass), TestAllgemein.tearDown] Unnecessary pass statement
+test\testfall.py:22: [C0103(invalid-name), TestAllgemein.testFloat] Invalid method name "testFloat"
+test\testfall.py:22: [C0111(missing-docstring), TestAllgemein.testFloat] Missing method docstring
+test\testfall.py:23: [C0103(invalid-name), TestAllgemein.testFloat] Invalid variable name "b"
+test\testfall.py:22: [R0201(no-self-use), TestAllgemein.testFloat] Method could be a function
+test\testfall.py:26: [C0103(invalid-name), TestAllgemein.testInt] Invalid method name "testInt"
+test\testfall.py:26: [C0111(missing-docstring), TestAllgemein.testInt] Missing method docstring
+test\testfall.py:27: [C0103(invalid-name), TestAllgemein.testInt] Invalid variable name "b"
+test\testfall.py:26: [R0201(no-self-use), TestAllgemein.testInt] Method could be a function
+test\testfall.py:30: [C0103(invalid-name), TestAllgemein.testComplex] Invalid method name "testComplex"
+test\testfall.py:30: [C0111(missing-docstring), TestAllgemein.testComplex] Missing method docstring
+test\testfall.py:31: [C0103(invalid-name), TestAllgemein.testComplex] Invalid variable name "b"
+test\testfall.py:30: [R0201(no-self-use), TestAllgemein.testComplex] Method could be a function
+test\testfall.py:34: [C0103(invalid-name), TestAllgemein.testInvert] Invalid method name "testInvert"
+test\testfall.py:34: [C0111(missing-docstring), TestAllgemein.testInvert] Missing method docstring
+test\testfall.py:35: [C0103(invalid-name), TestAllgemein.testInvert] Invalid variable name "z"
+test\testfall.py:35: [C0103(invalid-name), TestAllgemein.testInvert] Invalid variable name "n"
+test\testfall.py:36: [C0103(invalid-name), TestAllgemein.testInvert] Invalid variable name "b"
+test\testfall.py:34: [R0201(no-self-use), TestAllgemein.testInvert] Method could be a function
+test\testfall.py:39: [C0103(invalid-name), TestAllgemein.testcreateBruchZeroError] Invalid method name "testcreateBruchZeroError"
+test\testfall.py:39: [C0111(missing-docstring), TestAllgemein.testcreateBruchZeroError] Missing method docstring
+test\testfall.py:42: [C0103(invalid-name), TestAllgemein.testcreateBruchWrongTypeNenner] Invalid method name "testcreateBruchWrongTypeNenner"
+test\testfall.py:42: [C0111(missing-docstring), TestAllgemein.testcreateBruchWrongTypeNenner] Missing method docstring
+test\testfall.py:45: [C0103(invalid-name), TestAllgemein.testcreateBruchWrongTypeZaehler] Invalid method name "testcreateBruchWrongTypeZaehler"
+test\testfall.py:45: [C0111(missing-docstring), TestAllgemein.testcreateBruchWrongTypeZaehler] Missing method docstring
+test\testfall.py:48: [C0103(invalid-name), TestAllgemein.testInteger] Invalid method name "testInteger"
+test\testfall.py:48: [C0111(missing-docstring), TestAllgemein.testInteger] Missing method docstring
+test\testfall.py:52: [C0103(invalid-name), TestAllgemein.testPow] Invalid method name "testPow"
+test\testfall.py:52: [C0111(missing-docstring), TestAllgemein.testPow] Missing method docstring
+test\testfall.py:53: [C0103(invalid-name), TestAllgemein.testPow] Invalid variable name "h"
+test\testfall.py:56: [C0103(invalid-name), TestAllgemein.testPowError1] Invalid method name "testPowError1"
+test\testfall.py:56: [C0111(missing-docstring), TestAllgemein.testPowError1] Missing method docstring
+test\testfall.py:59: [C0103(invalid-name), TestAllgemein.testPowError2] Invalid method name "testPowError2"
+test\testfall.py:59: [C0111(missing-docstring), TestAllgemein.testPowError2] Missing method docstring
+test\testfall.py:62: [C0103(invalid-name), TestAllgemein.test_makeBruchTypeError] Invalid method name "test_makeBruchTypeError"
+test\testfall.py:62: [C0111(missing-docstring), TestAllgemein.test_makeBruchTypeError] Missing method docstring
+test\testfall.py:63: [E1101(no-member), TestAllgemein.test_makeBruchTypeError] Class 'Bruch' has no '_Bruch__makeBruch' member
+test\testfall.py:63: [W0212(protected-access), TestAllgemein.test_makeBruchTypeError] Access to a protected member _Bruch__makeBruch of a client class
+test\testfall.py:65: [C0103(invalid-name), TestAllgemein.test_makeBruchInt] Invalid method name "test_makeBruchInt"
+test\testfall.py:65: [C0111(missing-docstring), TestAllgemein.test_makeBruchInt] Missing method docstring
+test\testfall.py:67: [C0103(invalid-name), TestAllgemein.test_makeBruchInt] Invalid variable name "b4"
+test\testfall.py:67: [E1101(no-member), TestAllgemein.test_makeBruchInt] Class 'Bruch' has no '_Bruch__makeBruch' member
+test\testfall.py:67: [W0212(protected-access), TestAllgemein.test_makeBruchInt] Access to a protected member _Bruch__makeBruch of a client class
+test\testfall.py:65: [R0201(no-self-use), TestAllgemein.test_makeBruchInt] Method could be a function
+test\testfall.py:70: [C0103(invalid-name), TestAllgemein.testAbs] Invalid method name "testAbs"
+test\testfall.py:70: [C0111(missing-docstring), TestAllgemein.testAbs] Missing method docstring
+test\testfall.py:71: [C0103(invalid-name), TestAllgemein.testAbs] Invalid variable name "b4"
+test\testfall.py:70: [R0201(no-self-use), TestAllgemein.testAbs] Method could be a function
+test\testfall.py:74: [C0103(invalid-name), TestAllgemein.testNeg] Invalid method name "testNeg"
+test\testfall.py:74: [C0111(missing-docstring), TestAllgemein.testNeg] Missing method docstring
+test\testfall.py:75: [C0103(invalid-name), TestAllgemein.testNeg] Invalid variable name "b4"
+test\testfall.py:74: [R0201(no-self-use), TestAllgemein.testNeg] Method could be a function
+test\testfall.py:79: [C0103(invalid-name), TestAllgemein.testRef] Invalid method name "testRef"
+test\testfall.py:79: [C0111(missing-docstring), TestAllgemein.testRef] Missing method docstring
+test\testfall.py:82: [C0103(invalid-name), TestAllgemein.testRef2] Invalid method name "testRef2"
+test\testfall.py:82: [C0111(missing-docstring), TestAllgemein.testRef2] Missing method docstring
+test\testfall.py:83: [C0103(invalid-name), TestAllgemein.testRef2] Invalid variable name "b4"
+test\testfall.py:91: [C0103(invalid-name), TestVergleich.setUp] Invalid attribute name "b2"
+test\testfall.py:92: [C0103(invalid-name), TestVergleich.setUp] Invalid attribute name "b3"
+test\testfall.py:90: [C0103(invalid-name), TestVergleich.setUp] Invalid attribute name "b"
+test\testfall.py:87: [C0111(missing-docstring), TestVergleich] Missing class docstring
+test\testfall.py:93: [W0107(unnecessary-pass), TestVergleich.setUp] Unnecessary pass statement
+test\testfall.py:97: [W0107(unnecessary-pass), TestVergleich.tearDown] Unnecessary pass statement
+test\testfall.py:99: [C0103(invalid-name), TestVergleich.testEqual] Invalid method name "testEqual"
+test\testfall.py:99: [C0111(missing-docstring), TestVergleich.testEqual] Missing method docstring
+test\testfall.py:102: [C0103(invalid-name), TestVergleich.testNotEqual] Invalid method name "testNotEqual"
+test\testfall.py:102: [C0111(missing-docstring), TestVergleich.testNotEqual] Missing method docstring
+test\testfall.py:105: [C0103(invalid-name), TestVergleich.testGE] Invalid method name "testGE"
+test\testfall.py:105: [C0111(missing-docstring), TestVergleich.testGE] Missing method docstring
+test\testfall.py:108: [C0103(invalid-name), TestVergleich.testLE] Invalid method name "testLE"
+test\testfall.py:108: [C0111(missing-docstring), TestVergleich.testLE] Missing method docstring
+test\testfall.py:111: [C0103(invalid-name), TestVergleich.testLT] Invalid method name "testLT"
+test\testfall.py:111: [C0111(missing-docstring), TestVergleich.testLT] Missing method docstring
+test\testfall.py:114: [C0103(invalid-name), TestVergleich.testGT] Invalid method name "testGT"
+test\testfall.py:114: [C0111(missing-docstring), TestVergleich.testGT] Missing method docstring
+test\testfall.py:122: [C0103(invalid-name), TestString.setUp] Invalid attribute name "b2"
+test\testfall.py:123: [C0103(invalid-name), TestString.setUp] Invalid attribute name "b3"
+test\testfall.py:121: [C0103(invalid-name), TestString.setUp] Invalid attribute name "b"
+test\testfall.py:118: [C0111(missing-docstring), TestString] Missing class docstring
+test\testfall.py:124: [W0107(unnecessary-pass), TestString.setUp] Unnecessary pass statement
+test\testfall.py:128: [W0107(unnecessary-pass), TestString.tearDown] Unnecessary pass statement
+test\testfall.py:130: [C0111(missing-docstring), TestString.teststr] Missing method docstring
+test\testfall.py:134: [C0111(missing-docstring), TestString.teststr2] Missing method docstring
+test\testfall.py:135: [C0103(invalid-name), TestString.teststr2] Invalid variable name "b2"
+test\testfall.py:134: [R0201(no-self-use), TestString.teststr2] Method could be a function
+test\testfall.py:144: [C0103(invalid-name), TestAddition.setUp] Invalid attribute name "b2"
+test\testfall.py:145: [C0103(invalid-name), TestAddition.setUp] Invalid attribute name "b3"
+test\testfall.py:143: [C0103(invalid-name), TestAddition.setUp] Invalid attribute name "b"
+test\testfall.py:140: [C0111(missing-docstring), TestAddition] Missing class docstring
+test\testfall.py:146: [W0107(unnecessary-pass), TestAddition.setUp] Unnecessary pass statement
+test\testfall.py:150: [W0107(unnecessary-pass), TestAddition.tearDown] Unnecessary pass statement
+test\testfall.py:152: [C0111(missing-docstring), TestAddition.testplus] Missing method docstring
+test\testfall.py:156: [C0111(missing-docstring), TestAddition.testplus2] Missing method docstring
+test\testfall.py:160: [C0111(missing-docstring), TestAddition.testplus3] Missing method docstring
+test\testfall.py:164: [C0111(missing-docstring), TestAddition.testradd] Missing method docstring
+test\testfall.py:168: [C0103(invalid-name), TestAddition.testiAdd] Invalid method name "testiAdd"
+test\testfall.py:168: [C0111(missing-docstring), TestAddition.testiAdd] Missing method docstring
+test\testfall.py:172: [C0103(invalid-name), TestAddition.testiAdd2] Invalid method name "testiAdd2"
+test\testfall.py:172: [C0111(missing-docstring), TestAddition.testiAdd2] Missing method docstring
+test\testfall.py:176: [C0103(invalid-name), TestAddition.testaddError] Invalid method name "testaddError"
+test\testfall.py:176: [C0111(missing-docstring), TestAddition.testaddError] Missing method docstring
+test\testfall.py:179: [C0103(invalid-name), TestAddition.testiAddError] Invalid method name "testiAddError"
+test\testfall.py:179: [C0111(missing-docstring), TestAddition.testiAddError] Missing method docstring
+test\testfall.py:187: [C0103(invalid-name), TestSubtraktion.setUp] Invalid attribute name "b2"
+test\testfall.py:188: [C0103(invalid-name), TestSubtraktion.setUp] Invalid attribute name "b3"
+test\testfall.py:186: [C0103(invalid-name), TestSubtraktion.setUp] Invalid attribute name "b"
+test\testfall.py:183: [C0111(missing-docstring), TestSubtraktion] Missing class docstring
+test\testfall.py:189: [W0107(unnecessary-pass), TestSubtraktion.setUp] Unnecessary pass statement
+test\testfall.py:193: [W0107(unnecessary-pass), TestSubtraktion.tearDown] Unnecessary pass statement
+test\testfall.py:195: [C0111(missing-docstring), TestSubtraktion.testminus] Missing method docstring
+test\testfall.py:199: [C0111(missing-docstring), TestSubtraktion.testminus2] Missing method docstring
+test\testfall.py:203: [C0111(missing-docstring), TestSubtraktion.testminus3] Missing method docstring
+test\testfall.py:207: [C0103(invalid-name), TestSubtraktion.testiSubError] Invalid method name "testiSubError"
+test\testfall.py:207: [C0111(missing-docstring), TestSubtraktion.testiSubError] Missing method docstring
+test\testfall.py:210: [C0103(invalid-name), TestSubtraktion.testrsubError] Invalid method name "testrsubError"
+test\testfall.py:217: [C0103(invalid-name), TestSubtraktion.testiSub] Invalid method name "testiSub"
+test\testfall.py:217: [C0111(missing-docstring), TestSubtraktion.testiSub] Missing method docstring
+test\testfall.py:221: [C0103(invalid-name), TestSubtraktion.testiSub2] Invalid method name "testiSub2"
+test\testfall.py:221: [C0111(missing-docstring), TestSubtraktion.testiSub2] Missing method docstring
+test\testfall.py:225: [C0111(missing-docstring), TestSubtraktion.testrsub] Missing method docstring
+test\testfall.py:234: [C0103(invalid-name), TestMultiplikation.setUp] Invalid attribute name "b2"
+test\testfall.py:235: [C0103(invalid-name), TestMultiplikation.setUp] Invalid attribute name "b3"
+test\testfall.py:233: [C0103(invalid-name), TestMultiplikation.setUp] Invalid attribute name "b"
+test\testfall.py:230: [C0111(missing-docstring), TestMultiplikation] Missing class docstring
+test\testfall.py:236: [W0107(unnecessary-pass), TestMultiplikation.setUp] Unnecessary pass statement
+test\testfall.py:240: [W0107(unnecessary-pass), TestMultiplikation.tearDown] Unnecessary pass statement
+test\testfall.py:242: [C0111(missing-docstring), TestMultiplikation.testmal] Missing method docstring
+test\testfall.py:246: [C0111(missing-docstring), TestMultiplikation.testmal2] Missing method docstring
+test\testfall.py:250: [C0111(missing-docstring), TestMultiplikation.testmal3] Missing method docstring
+test\testfall.py:254: [C0103(invalid-name), TestMultiplikation.testiMulError] Invalid method name "testiMulError"
+test\testfall.py:254: [C0111(missing-docstring), TestMultiplikation.testiMulError] Missing method docstring
+test\testfall.py:257: [C0103(invalid-name), TestMultiplikation.testiMul] Invalid method name "testiMul"
+test\testfall.py:257: [C0111(missing-docstring), TestMultiplikation.testiMul] Missing method docstring
+test\testfall.py:261: [C0103(invalid-name), TestMultiplikation.testiMul2] Invalid method name "testiMul2"
+test\testfall.py:261: [C0111(missing-docstring), TestMultiplikation.testiMul2] Missing method docstring
+test\testfall.py:265: [C0111(missing-docstring), TestMultiplikation.testrmal] Missing method docstring
+test\testfall.py:269: [C0103(invalid-name), TestMultiplikation.testmulError] Invalid method name "testmulError"
+test\testfall.py:269: [C0111(missing-docstring), TestMultiplikation.testmulError] Missing method docstring
+test\testfall.py:277: [C0103(invalid-name), TestDivision.setUp] Invalid attribute name "b2"
+test\testfall.py:278: [C0103(invalid-name), TestDivision.setUp] Invalid attribute name "b3"
+test\testfall.py:276: [C0103(invalid-name), TestDivision.setUp] Invalid attribute name "b"
+test\testfall.py:273: [C0111(missing-docstring), TestDivision] Missing class docstring
+test\testfall.py:279: [W0107(unnecessary-pass), TestDivision.setUp] Unnecessary pass statement
+test\testfall.py:283: [W0107(unnecessary-pass), TestDivision.tearDown] Unnecessary pass statement
+test\testfall.py:285: [C0111(missing-docstring), TestDivision.testdiv] Missing method docstring
+test\testfall.py:289: [C0111(missing-docstring), TestDivision.testdiv2] Missing method docstring
+test\testfall.py:293: [C0111(missing-docstring), TestDivision.testdiv3] Missing method docstring
+test\testfall.py:297: [C0103(invalid-name), TestDivision.testrdivError] Invalid method name "testrdivError"
+test\testfall.py:297: [C0111(missing-docstring), TestDivision.testrdivError] Missing method docstring
+test\testfall.py:300: [C0111(missing-docstring), TestDivision.testrdiv] Missing method docstring
+test\testfall.py:304: [C0103(invalid-name), TestDivision.testdivZeroError] Invalid method name "testdivZeroError"
+test\testfall.py:304: [C0111(missing-docstring), TestDivision.testdivZeroError] Missing method docstring
+test\testfall.py:307: [C0103(invalid-name), TestDivision.testdivTypeError] Invalid method name "testdivTypeError"
+test\testfall.py:307: [C0111(missing-docstring), TestDivision.testdivTypeError] Missing method docstring
+test\testfall.py:310: [C0103(invalid-name), TestDivision.testdivZeroError2] Invalid method name "testdivZeroError2"
+test\testfall.py:310: [C0111(missing-docstring), TestDivision.testdivZeroError2] Missing method docstring
+test\testfall.py:313: [C0103(invalid-name), TestDivision.testrdivZeroError] Invalid method name "testrdivZeroError"
+test\testfall.py:313: [C0111(missing-docstring), TestDivision.testrdivZeroError] Missing method docstring
+test\testfall.py:317: [C0103(invalid-name), TestDivision.testiDiv] Invalid method name "testiDiv"
+test\testfall.py:317: [C0111(missing-docstring), TestDivision.testiDiv] Missing method docstring
+test\testfall.py:321: [C0103(invalid-name), TestDivision.testiDiv2] Invalid method name "testiDiv2"
+test\testfall.py:321: [C0111(missing-docstring), TestDivision.testiDiv2] Missing method docstring
+test\testfall.py:325: [C0103(invalid-name), TestDivision.testiDivError] Invalid method name "testiDivError"
+test\testfall.py:325: [C0111(missing-docstring), TestDivision.testiDivError] Missing method docstring
+test\testfall.py:333: [C0103(invalid-name), TestIteration.setUp] Invalid attribute name "b2"
+test\testfall.py:334: [C0103(invalid-name), TestIteration.setUp] Invalid attribute name "b3"
+test\testfall.py:332: [C0103(invalid-name), TestIteration.setUp] Invalid attribute name "b"
+test\testfall.py:329: [C0111(missing-docstring), TestIteration] Missing class docstring
+test\testfall.py:335: [W0107(unnecessary-pass), TestIteration.setUp] Unnecessary pass statement
+test\testfall.py:339: [W0107(unnecessary-pass), TestIteration.tearDown] Unnecessary pass statement
+test\testfall.py:341: [C0103(invalid-name), TestIteration.testTuple] Invalid method name "testTuple"
+test\testfall.py:341: [C0111(missing-docstring), TestIteration.testTuple] Missing method docstring
+test\testfall.py:342: [C0103(invalid-name), TestIteration.testTuple] Invalid variable name "z"
+test\testfall.py:342: [C0103(invalid-name), TestIteration.testTuple] Invalid variable name "n"
+test\testfall.py:341: [R0201(no-self-use), TestIteration.testTuple] Method could be a function
+test\testfall.py:345: [C0103(invalid-name), TestIteration.testTuple2] Invalid method name "testTuple2"
+test\testfall.py:345: [C0111(missing-docstring), TestIteration.testTuple2] Missing method docstring
+test\testfall.py:346: [C0103(invalid-name), TestIteration.testTuple2] Invalid variable name "z"
+test\testfall.py:346: [C0103(invalid-name), TestIteration.testTuple2] Invalid variable name "n"
+test\testfall.py:349: [C0103(invalid-name), TestIteration.testTuple3_Error] Invalid method name "testTuple3_Error"
+test\testfall.py:349: [C0111(missing-docstring), TestIteration.testTuple3_Error] Missing method docstring
+test\testfall.py:350: [C0103(invalid-name), TestIteration.testTuple3_Error] Invalid variable name "b3"
+test\testfall.py:354: [C0103(invalid-name), TestIteration.tryIndex] Invalid method name "tryIndex"
+test\testfall.py:354: [C0111(missing-docstring), TestIteration.tryIndex] Missing method docstring
+test\testfall.py:7: [W0614(unused-wildcard-import), ] Unused import ggt from wildcard import
+test\testfall.py:7: [W0614(unused-wildcard-import), ] Unused import kgv from wildcard import
+************* Module bruch.test.Unit_Addition
+test\Unit_Addition.py:23: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
+test\Unit_Addition.py:27: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
+test\Unit_Addition.py:31: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
+test\Unit_Addition.py:35: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
+test\Unit_Addition.py:39: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
+test\Unit_Addition.py:43: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
+test\Unit_Addition.py:53: [C0304(missing-final-newline), ] Final newline missing
+test\Unit_Addition.py:1: [C0103(invalid-name), ] Invalid module name "Unit_Addition"
+test\Unit_Addition.py:7: [W0401(wildcard-import), ] Wildcard import bruch.Bruch
+test\Unit_Addition.py:13: [C0103(invalid-name), TestAddition.setUp] Invalid attribute name "b2"
+test\Unit_Addition.py:14: [C0103(invalid-name), TestAddition.setUp] Invalid attribute name "b3"
+test\Unit_Addition.py:12: [C0103(invalid-name), TestAddition.setUp] Invalid attribute name "b"
+test\Unit_Addition.py:9: [C0111(missing-docstring), TestAddition] Missing class docstring
+test\Unit_Addition.py:15: [W0107(unnecessary-pass), TestAddition.setUp] Unnecessary pass statement
+test\Unit_Addition.py:19: [W0107(unnecessary-pass), TestAddition.tearDown] Unnecessary pass statement
+test\Unit_Addition.py:21: [C0111(missing-docstring), TestAddition.testplus] Missing method docstring
+test\Unit_Addition.py:25: [C0111(missing-docstring), TestAddition.testplus2] Missing method docstring
+test\Unit_Addition.py:29: [C0111(missing-docstring), TestAddition.testplus3] Missing method docstring
+test\Unit_Addition.py:33: [C0111(missing-docstring), TestAddition.testradd] Missing method docstring
+test\Unit_Addition.py:37: [C0103(invalid-name), TestAddition.testiAdd] Invalid method name "testiAdd"
+test\Unit_Addition.py:37: [C0111(missing-docstring), TestAddition.testiAdd] Missing method docstring
+test\Unit_Addition.py:41: [C0103(invalid-name), TestAddition.testiAdd2] Invalid method name "testiAdd2"
+test\Unit_Addition.py:41: [C0111(missing-docstring), TestAddition.testiAdd2] Missing method docstring
+test\Unit_Addition.py:45: [C0103(invalid-name), TestAddition.testaddError] Invalid method name "testaddError"
+test\Unit_Addition.py:45: [C0111(missing-docstring), TestAddition.testaddError] Missing method docstring
+test\Unit_Addition.py:48: [C0103(invalid-name), TestAddition.testiAddError] Invalid method name "testiAddError"
+test\Unit_Addition.py:48: [C0111(missing-docstring), TestAddition.testiAddError] Missing method docstring
+test\Unit_Addition.py:7: [W0614(unused-wildcard-import), ] Unused import ggt from wildcard import
+test\Unit_Addition.py:7: [W0614(unused-wildcard-import), ] Unused import kgv from wildcard import
+************* Module bruch.test.Unit_Allgemein
+test\Unit_Allgemein.py:24: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
+test\Unit_Allgemein.py:28: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
+test\Unit_Allgemein.py:32: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
+test\Unit_Allgemein.py:37: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
+test\Unit_Allgemein.py:50: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
+test\Unit_Allgemein.py:54: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
+test\Unit_Allgemein.py:68: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
+test\Unit_Allgemein.py:72: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
+test\Unit_Allgemein.py:76: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
+test\Unit_Allgemein.py:80: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
+test\Unit_Allgemein.py:84: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
+test\Unit_Allgemein.py:88: [C0304(missing-final-newline), ] Final newline missing
+test\Unit_Allgemein.py:1: [C0103(invalid-name), ] Invalid module name "Unit_Allgemein"
+test\Unit_Allgemein.py:7: [W0401(wildcard-import), ] Wildcard import bruch.Bruch
+test\Unit_Allgemein.py:14: [C0103(invalid-name), TestAllgemein.setUp] Invalid attribute name "b2"
+test\Unit_Allgemein.py:15: [C0103(invalid-name), TestAllgemein.setUp] Invalid attribute name "b3"
+test\Unit_Allgemein.py:13: [C0103(invalid-name), TestAllgemein.setUp] Invalid attribute name "b"
+test\Unit_Allgemein.py:10: [C0111(missing-docstring), TestAllgemein] Missing class docstring
+test\Unit_Allgemein.py:16: [W0107(unnecessary-pass), TestAllgemein.setUp] Unnecessary pass statement
+test\Unit_Allgemein.py:20: [W0107(unnecessary-pass), TestAllgemein.tearDown] Unnecessary pass statement
+test\Unit_Allgemein.py:22: [C0103(invalid-name), TestAllgemein.testFloat] Invalid method name "testFloat"
+test\Unit_Allgemein.py:22: [C0111(missing-docstring), TestAllgemein.testFloat] Missing method docstring
+test\Unit_Allgemein.py:23: [C0103(invalid-name), TestAllgemein.testFloat] Invalid variable name "b"
+test\Unit_Allgemein.py:22: [R0201(no-self-use), TestAllgemein.testFloat] Method could be a function
+test\Unit_Allgemein.py:26: [C0103(invalid-name), TestAllgemein.testInt] Invalid method name "testInt"
+test\Unit_Allgemein.py:26: [C0111(missing-docstring), TestAllgemein.testInt] Missing method docstring
+test\Unit_Allgemein.py:27: [C0103(invalid-name), TestAllgemein.testInt] Invalid variable name "b"
+test\Unit_Allgemein.py:26: [R0201(no-self-use), TestAllgemein.testInt] Method could be a function
+test\Unit_Allgemein.py:30: [C0103(invalid-name), TestAllgemein.testComplex] Invalid method name "testComplex"
+test\Unit_Allgemein.py:30: [C0111(missing-docstring), TestAllgemein.testComplex] Missing method docstring
+test\Unit_Allgemein.py:31: [C0103(invalid-name), TestAllgemein.testComplex] Invalid variable name "b"
+test\Unit_Allgemein.py:30: [R0201(no-self-use), TestAllgemein.testComplex] Method could be a function
+test\Unit_Allgemein.py:34: [C0103(invalid-name), TestAllgemein.testInvert] Invalid method name "testInvert"
+test\Unit_Allgemein.py:34: [C0111(missing-docstring), TestAllgemein.testInvert] Missing method docstring
+test\Unit_Allgemein.py:35: [C0103(invalid-name), TestAllgemein.testInvert] Invalid variable name "z"
+test\Unit_Allgemein.py:35: [C0103(invalid-name), TestAllgemein.testInvert] Invalid variable name "n"
+test\Unit_Allgemein.py:36: [C0103(invalid-name), TestAllgemein.testInvert] Invalid variable name "b"
+test\Unit_Allgemein.py:34: [R0201(no-self-use), TestAllgemein.testInvert] Method could be a function
+test\Unit_Allgemein.py:39: [C0103(invalid-name), TestAllgemein.testcreateBruchZeroError] Invalid method name "testcreateBruchZeroError"
+test\Unit_Allgemein.py:39: [C0111(missing-docstring), TestAllgemein.testcreateBruchZeroError] Missing method docstring
+test\Unit_Allgemein.py:42: [C0103(invalid-name), TestAllgemein.testcreateBruchWrongTypeNenner] Invalid method name "testcreateBruchWrongTypeNenner"
+test\Unit_Allgemein.py:42: [C0111(missing-docstring), TestAllgemein.testcreateBruchWrongTypeNenner] Missing method docstring
+test\Unit_Allgemein.py:45: [C0103(invalid-name), TestAllgemein.testcreateBruchWrongTypeZaehler] Invalid method name "testcreateBruchWrongTypeZaehler"
+test\Unit_Allgemein.py:45: [C0111(missing-docstring), TestAllgemein.testcreateBruchWrongTypeZaehler] Missing method docstring
+test\Unit_Allgemein.py:48: [C0103(invalid-name), TestAllgemein.testInteger] Invalid method name "testInteger"
+test\Unit_Allgemein.py:48: [C0111(missing-docstring), TestAllgemein.testInteger] Missing method docstring
+test\Unit_Allgemein.py:52: [C0103(invalid-name), TestAllgemein.testPow] Invalid method name "testPow"
+test\Unit_Allgemein.py:52: [C0111(missing-docstring), TestAllgemein.testPow] Missing method docstring
+test\Unit_Allgemein.py:53: [C0103(invalid-name), TestAllgemein.testPow] Invalid variable name "h"
+test\Unit_Allgemein.py:56: [C0103(invalid-name), TestAllgemein.testPowError1] Invalid method name "testPowError1"
+test\Unit_Allgemein.py:56: [C0111(missing-docstring), TestAllgemein.testPowError1] Missing method docstring
+test\Unit_Allgemein.py:59: [C0103(invalid-name), TestAllgemein.testPowError2] Invalid method name "testPowError2"
+test\Unit_Allgemein.py:59: [C0111(missing-docstring), TestAllgemein.testPowError2] Missing method docstring
+test\Unit_Allgemein.py:62: [C0103(invalid-name), TestAllgemein.test_makeBruchTypeError] Invalid method name "test_makeBruchTypeError"
+test\Unit_Allgemein.py:62: [C0111(missing-docstring), TestAllgemein.test_makeBruchTypeError] Missing method docstring
+test\Unit_Allgemein.py:63: [E1101(no-member), TestAllgemein.test_makeBruchTypeError] Class 'Bruch' has no '_Bruch__makeBruch' member
+test\Unit_Allgemein.py:63: [W0212(protected-access), TestAllgemein.test_makeBruchTypeError] Access to a protected member _Bruch__makeBruch of a client class
+test\Unit_Allgemein.py:65: [C0103(invalid-name), TestAllgemein.test_makeBruchInt] Invalid method name "test_makeBruchInt"
+test\Unit_Allgemein.py:65: [C0111(missing-docstring), TestAllgemein.test_makeBruchInt] Missing method docstring
+test\Unit_Allgemein.py:67: [C0103(invalid-name), TestAllgemein.test_makeBruchInt] Invalid variable name "b4"
+test\Unit_Allgemein.py:67: [E1101(no-member), TestAllgemein.test_makeBruchInt] Class 'Bruch' has no '_Bruch__makeBruch' member
+test\Unit_Allgemein.py:67: [W0212(protected-access), TestAllgemein.test_makeBruchInt] Access to a protected member _Bruch__makeBruch of a client class
+test\Unit_Allgemein.py:65: [R0201(no-self-use), TestAllgemein.test_makeBruchInt] Method could be a function
+test\Unit_Allgemein.py:70: [C0103(invalid-name), TestAllgemein.testAbs] Invalid method name "testAbs"
+test\Unit_Allgemein.py:70: [C0111(missing-docstring), TestAllgemein.testAbs] Missing method docstring
+test\Unit_Allgemein.py:71: [C0103(invalid-name), TestAllgemein.testAbs] Invalid variable name "b4"
+test\Unit_Allgemein.py:70: [R0201(no-self-use), TestAllgemein.testAbs] Method could be a function
+test\Unit_Allgemein.py:74: [C0103(invalid-name), TestAllgemein.testNeg] Invalid method name "testNeg"
+test\Unit_Allgemein.py:74: [C0111(missing-docstring), TestAllgemein.testNeg] Missing method docstring
+test\Unit_Allgemein.py:75: [C0103(invalid-name), TestAllgemein.testNeg] Invalid variable name "b4"
+test\Unit_Allgemein.py:74: [R0201(no-self-use), TestAllgemein.testNeg] Method could be a function
+test\Unit_Allgemein.py:79: [C0103(invalid-name), TestAllgemein.testRef] Invalid method name "testRef"
+test\Unit_Allgemein.py:79: [C0111(missing-docstring), TestAllgemein.testRef] Missing method docstring
+test\Unit_Allgemein.py:82: [C0103(invalid-name), TestAllgemein.testRef2] Invalid method name "testRef2"
+test\Unit_Allgemein.py:82: [C0111(missing-docstring), TestAllgemein.testRef2] Missing method docstring
+test\Unit_Allgemein.py:83: [C0103(invalid-name), TestAllgemein.testRef2] Invalid variable name "b4"
+test\Unit_Allgemein.py:7: [W0614(unused-wildcard-import), ] Unused import ggt from wildcard import
+test\Unit_Allgemein.py:7: [W0614(unused-wildcard-import), ] Unused import kgv from wildcard import
+************* Module bruch.test.Unit_Division
+test\Unit_Division.py:24: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
+test\Unit_Division.py:28: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
+test\Unit_Division.py:32: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
+test\Unit_Division.py:39: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
+test\Unit_Division.py:53: [C0303(trailing-whitespace), ] Trailing whitespace
+test\Unit_Division.py:56: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
+test\Unit_Division.py:57: [C0303(trailing-whitespace), ] Trailing whitespace
+test\Unit_Division.py:60: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
+test\Unit_Division.py:66: [C0304(missing-final-newline), ] Final newline missing
+test\Unit_Division.py:1: [C0103(invalid-name), ] Invalid module name "Unit_Division"
+test\Unit_Division.py:7: [W0401(wildcard-import), ] Wildcard import bruch.Bruch
+test\Unit_Division.py:14: [C0103(invalid-name), TestDivision.setUp] Invalid attribute name "b2"
+test\Unit_Division.py:15: [C0103(invalid-name), TestDivision.setUp] Invalid attribute name "b3"
+test\Unit_Division.py:13: [C0103(invalid-name), TestDivision.setUp] Invalid attribute name "b"
+test\Unit_Division.py:10: [C0111(missing-docstring), TestDivision] Missing class docstring
+test\Unit_Division.py:16: [W0107(unnecessary-pass), TestDivision.setUp] Unnecessary pass statement
+test\Unit_Division.py:20: [W0107(unnecessary-pass), TestDivision.tearDown] Unnecessary pass statement
+test\Unit_Division.py:22: [C0111(missing-docstring), TestDivision.testdiv] Missing method docstring
+test\Unit_Division.py:26: [C0111(missing-docstring), TestDivision.testdiv2] Missing method docstring
+test\Unit_Division.py:30: [C0111(missing-docstring), TestDivision.testdiv3] Missing method docstring
+test\Unit_Division.py:34: [C0103(invalid-name), TestDivision.testrdivError] Invalid method name "testrdivError"
+test\Unit_Division.py:34: [C0111(missing-docstring), TestDivision.testrdivError] Missing method docstring
+test\Unit_Division.py:37: [C0111(missing-docstring), TestDivision.testrdiv] Missing method docstring
+test\Unit_Division.py:41: [C0103(invalid-name), TestDivision.testdivZeroError] Invalid method name "testdivZeroError"
+test\Unit_Division.py:41: [C0111(missing-docstring), TestDivision.testdivZeroError] Missing method docstring
+test\Unit_Division.py:44: [C0103(invalid-name), TestDivision.testdivTypeError] Invalid method name "testdivTypeError"
+test\Unit_Division.py:44: [C0111(missing-docstring), TestDivision.testdivTypeError] Missing method docstring
+test\Unit_Division.py:47: [C0103(invalid-name), TestDivision.testdivZeroError2] Invalid method name "testdivZeroError2"
+test\Unit_Division.py:47: [C0111(missing-docstring), TestDivision.testdivZeroError2] Missing method docstring
+test\Unit_Division.py:50: [C0103(invalid-name), TestDivision.testrdivZeroError] Invalid method name "testrdivZeroError"
+test\Unit_Division.py:50: [C0111(missing-docstring), TestDivision.testrdivZeroError] Missing method docstring
+test\Unit_Division.py:54: [C0103(invalid-name), TestDivision.testiDiv] Invalid method name "testiDiv"
+test\Unit_Division.py:54: [C0111(missing-docstring), TestDivision.testiDiv] Missing method docstring
+test\Unit_Division.py:58: [C0103(invalid-name), TestDivision.testiDiv2] Invalid method name "testiDiv2"
+test\Unit_Division.py:58: [C0111(missing-docstring), TestDivision.testiDiv2] Missing method docstring
+test\Unit_Division.py:62: [C0103(invalid-name), TestDivision.testiDivError] Invalid method name "testiDivError"
+test\Unit_Division.py:62: [C0111(missing-docstring), TestDivision.testiDivError] Missing method docstring
+test\Unit_Division.py:7: [W0614(unused-wildcard-import), ] Unused import ggt from wildcard import
+test\Unit_Division.py:7: [W0614(unused-wildcard-import), ] Unused import kgv from wildcard import
+************* Module bruch.test.Unit_Multiplikation
+test\Unit_Multiplikation.py:24: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
+test\Unit_Multiplikation.py:28: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
+test\Unit_Multiplikation.py:32: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
+test\Unit_Multiplikation.py:39: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
+test\Unit_Multiplikation.py:43: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
+test\Unit_Multiplikation.py:47: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
+test\Unit_Multiplikation.py:53: [C0304(missing-final-newline), ] Final newline missing
+test\Unit_Multiplikation.py:1: [C0103(invalid-name), ] Invalid module name "Unit_Multiplikation"
+test\Unit_Multiplikation.py:7: [W0401(wildcard-import), ] Wildcard import bruch.Bruch
+test\Unit_Multiplikation.py:14: [C0103(invalid-name), TestMultiplikation.setUp] Invalid attribute name "b2"
+test\Unit_Multiplikation.py:15: [C0103(invalid-name), TestMultiplikation.setUp] Invalid attribute name "b3"
+test\Unit_Multiplikation.py:13: [C0103(invalid-name), TestMultiplikation.setUp] Invalid attribute name "b"
+test\Unit_Multiplikation.py:10: [C0111(missing-docstring), TestMultiplikation] Missing class docstring
+test\Unit_Multiplikation.py:16: [W0107(unnecessary-pass), TestMultiplikation.setUp] Unnecessary pass statement
+test\Unit_Multiplikation.py:20: [W0107(unnecessary-pass), TestMultiplikation.tearDown] Unnecessary pass statement
+test\Unit_Multiplikation.py:22: [C0111(missing-docstring), TestMultiplikation.testmal] Missing method docstring
+test\Unit_Multiplikation.py:26: [C0111(missing-docstring), TestMultiplikation.testmal2] Missing method docstring
+test\Unit_Multiplikation.py:30: [C0111(missing-docstring), TestMultiplikation.testmal3] Missing method docstring
+test\Unit_Multiplikation.py:34: [C0103(invalid-name), TestMultiplikation.testiMulError] Invalid method name "testiMulError"
+test\Unit_Multiplikation.py:34: [C0111(missing-docstring), TestMultiplikation.testiMulError] Missing method docstring
+test\Unit_Multiplikation.py:37: [C0103(invalid-name), TestMultiplikation.testiMul] Invalid method name "testiMul"
+test\Unit_Multiplikation.py:37: [C0111(missing-docstring), TestMultiplikation.testiMul] Missing method docstring
+test\Unit_Multiplikation.py:41: [C0103(invalid-name), TestMultiplikation.testiMul2] Invalid method name "testiMul2"
+test\Unit_Multiplikation.py:41: [C0111(missing-docstring), TestMultiplikation.testiMul2] Missing method docstring
+test\Unit_Multiplikation.py:45: [C0111(missing-docstring), TestMultiplikation.testrmal] Missing method docstring
+test\Unit_Multiplikation.py:49: [C0103(invalid-name), TestMultiplikation.testmulError] Invalid method name "testmulError"
+test\Unit_Multiplikation.py:49: [C0111(missing-docstring), TestMultiplikation.testmulError] Missing method docstring
+test\Unit_Multiplikation.py:7: [W0614(unused-wildcard-import), ] Unused import ggt from wildcard import
+test\Unit_Multiplikation.py:7: [W0614(unused-wildcard-import), ] Unused import kgv from wildcard import
+************* Module bruch.test.Unit_String
+test\Unit_String.py:24: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
+test\Unit_String.py:29: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
+test\Unit_String.py:33: [C0304(missing-final-newline), ] Final newline missing
+test\Unit_String.py:1: [C0103(invalid-name), ] Invalid module name "Unit_String"
+test\Unit_String.py:7: [W0401(wildcard-import), ] Wildcard import bruch.Bruch
+test\Unit_String.py:14: [C0103(invalid-name), TestString.setUp] Invalid attribute name "b2"
+test\Unit_String.py:15: [C0103(invalid-name), TestString.setUp] Invalid attribute name "b3"
+test\Unit_String.py:13: [C0103(invalid-name), TestString.setUp] Invalid attribute name "b"
+test\Unit_String.py:10: [C0111(missing-docstring), TestString] Missing class docstring
+test\Unit_String.py:16: [W0107(unnecessary-pass), TestString.setUp] Unnecessary pass statement
+test\Unit_String.py:20: [W0107(unnecessary-pass), TestString.tearDown] Unnecessary pass statement
+test\Unit_String.py:22: [C0111(missing-docstring), TestString.teststr] Missing method docstring
+test\Unit_String.py:26: [C0111(missing-docstring), TestString.teststr2] Missing method docstring
+test\Unit_String.py:27: [C0103(invalid-name), TestString.teststr2] Invalid variable name "b2"
+test\Unit_String.py:26: [R0201(no-self-use), TestString.teststr2] Method could be a function
+test\Unit_String.py:7: [W0614(unused-wildcard-import), ] Unused import ggt from wildcard import
+test\Unit_String.py:7: [W0614(unused-wildcard-import), ] Unused import kgv from wildcard import
+************* Module bruch.test.Unit_Subtraktion
+test\Unit_Subtraktion.py:24: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
+test\Unit_Subtraktion.py:28: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
+test\Unit_Subtraktion.py:32: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
+test\Unit_Subtraktion.py:46: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
+test\Unit_Subtraktion.py:50: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
+test\Unit_Subtraktion.py:55: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
+test\Unit_Subtraktion.py:1: [C0103(invalid-name), ] Invalid module name "Unit_Subtraktion"
+test\Unit_Subtraktion.py:7: [W0401(wildcard-import), ] Wildcard import bruch.Bruch
+test\Unit_Subtraktion.py:14: [C0103(invalid-name), TestSubtraktion.setUp] Invalid attribute name "b2"
+test\Unit_Subtraktion.py:15: [C0103(invalid-name), TestSubtraktion.setUp] Invalid attribute name "b3"
+test\Unit_Subtraktion.py:13: [C0103(invalid-name), TestSubtraktion.setUp] Invalid attribute name "b"
+test\Unit_Subtraktion.py:10: [C0111(missing-docstring), TestSubtraktion] Missing class docstring
+test\Unit_Subtraktion.py:16: [W0107(unnecessary-pass), TestSubtraktion.setUp] Unnecessary pass statement
+test\Unit_Subtraktion.py:20: [W0107(unnecessary-pass), TestSubtraktion.tearDown] Unnecessary pass statement
+test\Unit_Subtraktion.py:22: [C0111(missing-docstring), TestSubtraktion.testminus] Missing method docstring
+test\Unit_Subtraktion.py:26: [C0111(missing-docstring), TestSubtraktion.testminus2] Missing method docstring
+test\Unit_Subtraktion.py:30: [C0111(missing-docstring), TestSubtraktion.testminus3] Missing method docstring
+test\Unit_Subtraktion.py:34: [C0103(invalid-name), TestSubtraktion.testiSubError] Invalid method name "testiSubError"
+test\Unit_Subtraktion.py:34: [C0111(missing-docstring), TestSubtraktion.testiSubError] Missing method docstring
+test\Unit_Subtraktion.py:37: [C0103(invalid-name), TestSubtraktion.testrsubError] Invalid method name "testrsubError"
+test\Unit_Subtraktion.py:44: [C0103(invalid-name), TestSubtraktion.testiSub] Invalid method name "testiSub"
+test\Unit_Subtraktion.py:44: [C0111(missing-docstring), TestSubtraktion.testiSub] Missing method docstring
+test\Unit_Subtraktion.py:48: [C0103(invalid-name), TestSubtraktion.testiSub2] Invalid method name "testiSub2"
+test\Unit_Subtraktion.py:48: [C0111(missing-docstring), TestSubtraktion.testiSub2] Missing method docstring
+test\Unit_Subtraktion.py:52: [C0111(missing-docstring), TestSubtraktion.testrsub] Missing method docstring
+test\Unit_Subtraktion.py:7: [W0614(unused-wildcard-import), ] Unused import ggt from wildcard import
+test\Unit_Subtraktion.py:7: [W0614(unused-wildcard-import), ] Unused import kgv from wildcard import
+************* Module bruch.test.Unit_Vergleich
+test\Unit_Vergleich.py:23: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
+test\Unit_Vergleich.py:26: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
+test\Unit_Vergleich.py:29: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
+test\Unit_Vergleich.py:32: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
+test\Unit_Vergleich.py:35: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
+test\Unit_Vergleich.py:38: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
+test\Unit_Vergleich.py:42: [C0304(missing-final-newline), ] Final newline missing
+test\Unit_Vergleich.py:1: [C0103(invalid-name), ] Invalid module name "Unit_Vergleich"
+test\Unit_Vergleich.py:7: [W0401(wildcard-import), ] Wildcard import bruch.Bruch
+test\Unit_Vergleich.py:14: [C0103(invalid-name), TestVergleich.setUp] Invalid attribute name "b2"
+test\Unit_Vergleich.py:15: [C0103(invalid-name), TestVergleich.setUp] Invalid attribute name "b3"
+test\Unit_Vergleich.py:13: [C0103(invalid-name), TestVergleich.setUp] Invalid attribute name "b"
+test\Unit_Vergleich.py:10: [C0111(missing-docstring), TestVergleich] Missing class docstring
+test\Unit_Vergleich.py:16: [W0107(unnecessary-pass), TestVergleich.setUp] Unnecessary pass statement
+test\Unit_Vergleich.py:20: [W0107(unnecessary-pass), TestVergleich.tearDown] Unnecessary pass statement
+test\Unit_Vergleich.py:22: [C0103(invalid-name), TestVergleich.testEqual] Invalid method name "testEqual"
+test\Unit_Vergleich.py:22: [C0111(missing-docstring), TestVergleich.testEqual] Missing method docstring
+test\Unit_Vergleich.py:25: [C0103(invalid-name), TestVergleich.testNotEqual] Invalid method name "testNotEqual"
+test\Unit_Vergleich.py:25: [C0111(missing-docstring), TestVergleich.testNotEqual] Missing method docstring
+test\Unit_Vergleich.py:28: [C0103(invalid-name), TestVergleich.testGE] Invalid method name "testGE"
+test\Unit_Vergleich.py:28: [C0111(missing-docstring), TestVergleich.testGE] Missing method docstring
+test\Unit_Vergleich.py:31: [C0103(invalid-name), TestVergleich.testLE] Invalid method name "testLE"
+test\Unit_Vergleich.py:31: [C0111(missing-docstring), TestVergleich.testLE] Missing method docstring
+test\Unit_Vergleich.py:34: [C0103(invalid-name), TestVergleich.testLT] Invalid method name "testLT"
+test\Unit_Vergleich.py:34: [C0111(missing-docstring), TestVergleich.testLT] Missing method docstring
+test\Unit_Vergleich.py:37: [C0103(invalid-name), TestVergleich.testGT] Invalid method name "testGT"
+test\Unit_Vergleich.py:37: [C0111(missing-docstring), TestVergleich.testGT] Missing method docstring
+test\Unit_Vergleich.py:7: [W0614(unused-wildcard-import), ] Unused import ggt from wildcard import
+test\Unit_Vergleich.py:7: [W0614(unused-wildcard-import), ] Unused import kgv from wildcard import
+************* Module bruch.test.Unit_Zusatz
+test\Unit_Zusatz.py:24: [C0325(superfluous-parens), ] Unnecessary parens after 'assert' keyword
+test\Unit_Zusatz.py:39: [C0304(missing-final-newline), ] Final newline missing
+test\Unit_Zusatz.py:1: [C0103(invalid-name), ] Invalid module name "Unit_Zusatz"
+test\Unit_Zusatz.py:6: [W0401(wildcard-import), ] Wildcard import bruch.Bruch
+test\Unit_Zusatz.py:14: [C0103(invalid-name), TestAllgemein.setUp] Invalid attribute name "b2"
+test\Unit_Zusatz.py:15: [C0103(invalid-name), TestAllgemein.setUp] Invalid attribute name "b3"
+test\Unit_Zusatz.py:13: [C0103(invalid-name), TestAllgemein.setUp] Invalid attribute name "b"
+test\Unit_Zusatz.py:10: [C0111(missing-docstring), TestAllgemein] Missing class docstring
+test\Unit_Zusatz.py:16: [W0107(unnecessary-pass), TestAllgemein.setUp] Unnecessary pass statement
+test\Unit_Zusatz.py:20: [W0107(unnecessary-pass), TestAllgemein.tearDown] Unnecessary pass statement
+test\Unit_Zusatz.py:22: [C0103(invalid-name), TestAllgemein.testTuple] Invalid method name "testTuple"
+test\Unit_Zusatz.py:22: [C0111(missing-docstring), TestAllgemein.testTuple] Missing method docstring
+test\Unit_Zusatz.py:23: [C0103(invalid-name), TestAllgemein.testTuple] Invalid variable name "z"
+test\Unit_Zusatz.py:23: [C0103(invalid-name), TestAllgemein.testTuple] Invalid variable name "n"
+test\Unit_Zusatz.py:22: [R0201(no-self-use), TestAllgemein.testTuple] Method could be a function
+test\Unit_Zusatz.py:26: [C0103(invalid-name), TestAllgemein.testTuple2] Invalid method name "testTuple2"
+test\Unit_Zusatz.py:26: [C0111(missing-docstring), TestAllgemein.testTuple2] Missing method docstring
+test\Unit_Zusatz.py:27: [C0103(invalid-name), TestAllgemein.testTuple2] Invalid variable name "z"
+test\Unit_Zusatz.py:27: [C0103(invalid-name), TestAllgemein.testTuple2] Invalid variable name "n"
+test\Unit_Zusatz.py:30: [C0103(invalid-name), TestAllgemein.testTuple3_Error] Invalid method name "testTuple3_Error"
+test\Unit_Zusatz.py:30: [C0111(missing-docstring), TestAllgemein.testTuple3_Error] Missing method docstring
+test\Unit_Zusatz.py:31: [C0103(invalid-name), TestAllgemein.testTuple3_Error] Invalid variable name "b3"
+test\Unit_Zusatz.py:35: [C0103(invalid-name), TestAllgemein.tryIndex] Invalid method name "tryIndex"
+test\Unit_Zusatz.py:35: [C0111(missing-docstring), TestAllgemein.tryIndex] Missing method docstring
+test\Unit_Zusatz.py:6: [W0614(unused-wildcard-import), ] Unused import ggt from wildcard import
+test\Unit_Zusatz.py:6: [W0614(unused-wildcard-import), ] Unused import kgv from wildcard import
+test\Unit_Zusatz.py:7: [C0411(wrong-import-order), ] standard import "import unittest" should be placed before "from bruch.Bruch import *"
+
+------------------------------------------------------------------
+Your code has been rated at 1.11/10 (previous run: 1.11/10, +0.00)
+
